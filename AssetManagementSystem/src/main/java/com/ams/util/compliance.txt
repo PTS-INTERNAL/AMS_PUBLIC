@@ -1,0 +1,7 @@
+QUY DINH VE TRANG THAI PHIEU CHO MUON
+1. Tao moi
+2. Co dien duyet
+3. ke toan duyet
+4. kho van duyet
+0. khong duyet
+DELETE_FG = 0 la xoa

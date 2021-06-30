@@ -1,0 +1,93 @@
+.title-feature button i {
+	margin-right: 10px;
+}
+
+.title-feature button {
+	height: 40px;
+	margin-top: 0px;
+	border-radius: 0;
+}
+
+.title-feature button .fas {
+	font-size: 24px;
+}
+
+.title-feature {
+	background-color: #bdc6e2;
+	font-size: 22px;
+	height: 40px;
+}
+
+.table-data input[type="checkbox"] {
+	cursor: pointer;
+}
+
+.table-data {
+	border: 2px solid black;
+	cursor: pointer;
+}
+
+.table-data tbody tr {
+	line-height: 22px;
+}
+
+.table-data thead th {
+	padding: 1px 1px 1px 1px;
+}
+
+.table-data td {
+	border-right: 2px solid black;
+	height: 18px;
+	padding: 1px 4px 1px 4px;
+	white-space: nowrap;
+}
+
+.table-data th {
+	border: 1px solid black;
+}
+
+.table-data thead th {
+	border: 2px solid black;
+	text-align: center;
+	background-color: #bdc6e2;
+	vertical-align: middle;
+}
+
+.table-search tr {
+	height: 22px;
+}
+
+.table-search tr td input {
+	width: 100%;
+	height: 30px;
+	border: 1px solid black;
+}
+
+.table-search tr td select {
+	width: 100%;
+	height: 30px;
+}
+
+.table-search tr td {
+	padding: 2px 2px 2px 2px;
+	border: 2px solid black;
+}
+
+.table-search tr .title {
+	font-weight: 700;
+	padding: 5px 4px 0px 4px;
+	background-color: #0089FF;
+	color: white;
+}
+
+.selectList {
+	cursor: pointer;
+}
+
+.selectList-item option {
+	cursor: pointer;
+}
+
+textarea:focus, input:focus {
+	outline: none;
+}
